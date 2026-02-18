@@ -68,7 +68,3 @@ However, due to non-linear relationships in salary data, tree-based models such 
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-
----
-
-## 📂 Project Structure
